@@ -44,13 +44,22 @@ python-dotenv
 
 
 User Query → Streamlit UI
+
                ↓
+               
      FastAPI Backend
+     
                ↓
+               
     LLM Reasoning Engine (Agent)
+    
                ↓
+               
      Tool Execution Layer
+     
    (Pandas, Plots, FAISS Search)
+   
                ↓
+               
       Final Human-Like Answer
-           + Visual Output
+                 + Visual Output
