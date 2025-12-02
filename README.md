@@ -15,6 +15,7 @@ JSON-structured analysis
 This project combines FastAPI, Streamlit, FAISS, LangChain, and Google Gemini 2.5 Flash (via OpenAI-compatible API) to create an agentic data analyst that performs end-to-end BI workflows.# Agentic_BI-LLM-Powered-Data-Analyst
 
 🛠️ Tech Stack
+
 Backend (FastAPI)
 
 FastAPI
@@ -40,6 +41,8 @@ matplotlib
 python-dotenv
 
 🏗️ System Architecture
+
+
 User Query → Streamlit UI
                ↓
      FastAPI Backend
