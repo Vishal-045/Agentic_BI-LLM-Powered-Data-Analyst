@@ -56,7 +56,6 @@ User Query → Streamlit UI
                ↓
                
      Tool Execution Layer
-     
    (Pandas, Plots, FAISS Search)
    
                ↓
